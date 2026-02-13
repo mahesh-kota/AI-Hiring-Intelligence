@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Portfolio Analyzer - Recruiter Edition",
+  "description": "A production-grade hiring evaluation tool that uses the Gemini API and GitHub REST API to assess developer hireability, score activity, and generate recruiter-style internal notes.",
+  "requestFramePermissions": []
+}
